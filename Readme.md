@@ -1,4 +1,4 @@
-<h1 align="center"> Selenium Code - Java - CrossBrowser Testing - single test of sample application in 3 different browsers in docker)  </h1> <br>
+<h1 align="center"> Selenium Code - Java - CrossBrowser Testing - single test of sample application in 3 different browsers in docker  </h1> <br>
 
 <p align="center">
   Description: This is a demo testcase on java tech with TestNg framework.
